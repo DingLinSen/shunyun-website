@@ -545,10 +545,11 @@ export default {
           height: 60px;
           width: 100px;
           text-align: center;
+          cursor: pointer;
 
           span:nth-child(1) {
             line-height: 60px;
-            cursor: pointer;
+            // cursor: pointer;
           }
         }
 
@@ -562,18 +563,18 @@ export default {
             border-radius: 6px;
             height: auto;
             position: absolute;
-            top: 60px;
+            top: 50px;
           }
           to {
-            opacity: 1;
-            display: flex;
-            flex-wrap: wrap;
-            width: 200%;
-            background-color: white;
-            border-radius: 6px;
-            height: auto;
-            position: absolute;
-            top: 60px;
+            // opacity: 1;
+            // display: flex;
+            // flex-wrap: wrap;
+            // width: 200%;
+            // background-color: white;
+            // border-radius: 6px;
+            // height: auto;
+            // position: absolute;
+            // top: 60px;
           }
         }
 
@@ -588,7 +589,8 @@ export default {
           position: absolute;
           top: 60px;
           animation-name: tabs;
-          animation-duration: 0.5s;
+          animation-duration: 0.8s;
+          animation-fill-mode: forwards;
 
           li {
             width: 31%;

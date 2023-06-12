@@ -259,9 +259,9 @@ export default {
     margin: 30px auto;
 
     .tabs {
-      width: 45%;
+      width: 100%;
+      margin-left: 25%;
       display: flex;
-      margin: auto;
 
       li {
         cursor: pointer;

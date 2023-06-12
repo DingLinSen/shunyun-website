@@ -300,7 +300,7 @@ export default {
     .tabs {
       width: 100%;
       // margin-left: 500px;
-      margin-left: 30%;
+      margin-left: 25%;
       display: flex;
       // margin: auto;
 

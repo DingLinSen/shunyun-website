@@ -157,6 +157,25 @@ li {
         border: 1px solid #0a3daa;
       }
     }
+    .report-box {
+      width: 100%;
+      margin: 30px auto;
+      li {
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        margin: 10px 0;
+        border-bottom: 1px solid #999999;
+        padding: 20px 0;
+        .date {
+          padding-right: 20px;
+          color: #999999;
+        }
+      }
+      li:hover {
+        color: #0a3daa;
+      }
+    }
 
     .content {
       // margin-top: 50px;
@@ -239,9 +258,9 @@ li {
     margin: 30px auto;
 
     .tabs {
-      width: 45%;
+      width: 100%;
+      margin-left: 25%;
       display: flex;
-      margin: auto;
 
       li {
         cursor: pointer;
@@ -270,7 +289,7 @@ li {
       }
     }
     .report-box {
-      width: 50%;
+      width: 75%;
       margin: 30px auto;
       li {
         cursor: pointer;

@@ -5,8 +5,8 @@
         <img v-if="isShowOne" src="@/assets/images/banner/1.jpg" />
         <!-- <h3 class="small">{{ item }}</h3> -->
         <div class="img-text">
-          <div class="title">舜云科技边缘盒子</div>
-          <div class="content">强劲算力，按需加载算法，快速部署，支持8/16路视频分析</div>
+          <div class="title">螭吻科技边缘盒子</div>
+          <div class="content">强劲算力，按需加载算法，快速部署，支持4/8/16路视频分析</div>
           <div class="content">满足安全生产等场景的应用需求</div>
         </div>
         <div v-if="isShowOne" class="one-btn">
