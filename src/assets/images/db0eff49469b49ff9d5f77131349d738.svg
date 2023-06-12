@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="142" viewBox="0 0 142 142">
+  <g id="Group_5353" data-name="Group 5353" transform="translate(-1373 -1279)">
+    <g id="Group_4619" data-name="Group 4619" transform="translate(9 -2652)">
+      <g id="Group_4497" data-name="Group 4497">
+        <circle id="Ellipse_68" data-name="Ellipse 68" cx="71" cy="71" r="71" transform="translate(1364 3931)" fill="#669acc"/>
+        <g id="Group_2048" data-name="Group 2048" transform="translate(1086 405)">
+          <g id="Group_1052" data-name="Group 1052" transform="translate(297 3545)">
+            <rect id="Rectangle_547" data-name="Rectangle 547" width="103.777" height="103.777" transform="translate(0 0)" fill="#669acc" opacity="0"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4657" data-name="Group 4657" transform="translate(1139.149 115.771)">
+      <path id="Path_873" data-name="Path 873" d="M301.5,1254.426a15.75,15.75,0,0,0,20.2,1.876l.132-.095-10.258-10.258a4.223,4.223,0,0,1-6.511.661l-11.7-11.7a4.223,4.223,0,0,1,.661-6.511l-10.261-10.26-.089.124a15.745,15.745,0,0,0,1.871,20.212Z" fill="#fff"/>
+      <rect id="Rectangle_1392" data-name="Rectangle 1392" width="7.14" height="17.965" rx="2" transform="translate(284.114 1215.278) rotate(-45)" fill="#fff"/>
+      <rect id="Rectangle_1393" data-name="Rectangle 1393" width="7.14" height="17.965" rx="2" transform="translate(312.02 1243.184) rotate(-45)" fill="#fff"/>
+      <path id="Path_874" data-name="Path 874" d="M305.657,1222.818l7.314-.937a1.125,1.125,0,1,0-.286-2.231l-4.045.518,7.19-7.189a1.125,1.125,0,0,0-1.592-1.591l-7.189,7.189.518-4.045a1.166,1.166,0,0,0-.973-1.259,1.124,1.124,0,0,0-1.258.973l-.937,7.314A1.163,1.163,0,0,0,305.657,1222.818Z" fill="#fff"/>
+      <path id="Path_875" data-name="Path 875" d="M326.74,1231.251a1.125,1.125,0,0,0,1.259-.973l.937-7.314a1.164,1.164,0,0,0-1.259-1.258l-7.314.937a1.125,1.125,0,0,0,.286,2.231l4.045-.518-7.189,7.189a1.125,1.125,0,0,0,1.591,1.592l7.189-7.19-.518,4.045A1.166,1.166,0,0,0,326.74,1231.251Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,32 +1,35 @@
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view/>
+    <!-- 头部-->
+    <Header></Header>
+    <router-view />
   </div>
 </template>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+<script>
+// 引入头部
+import Header from '@/layout/header'
+//引入底部
+import Footer from '@/layout/footer'
+//引入侧边导航栏
+import Affix from '@/layout/affix'
+
+export default {
+  data() {
+    return {}
+  },
+  components: {
+    Header,
+    Footer,
+    Affix,
+  },
 }
-
-nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+</script>
+<style lang="scss">
+@import url('@/static/css/fontsize.css');
+@import url('@/assets/icon-font/iconfont.css');
+* {
+  margin: 0;
+  padding: 0;
 }
 </style>
