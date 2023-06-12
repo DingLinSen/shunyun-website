@@ -727,7 +727,7 @@ export default {
 @media screen and (min-width: 770px) {
   .box {
     display: flex;
-    justify-content: space-between;
+    // justify-content: space-between;
     // align-items: center;
     .map-text {
       margin-left: 20px;
@@ -762,7 +762,7 @@ export default {
   }
   #allmap {
     height: 450px;
-    width: 70%;
+    width: 65%;
     margin: 10px 0;
   }
   * {
@@ -797,7 +797,7 @@ export default {
       justify-content: space-between;
 
       .solutionLeft {
-        width: 70%;
+        width: 75%;
 
         .ti {
           text-indent: 2em;
